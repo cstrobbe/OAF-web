@@ -13,8 +13,8 @@ and was funded by the European Commission as part of the
 7th Framework Programme (FP7) under project number 224348. 
 
 See the [main OAF repository](https://github.com/cstrobbe/OAF)
-for background, links to OAF introductions
-and links to other OAF documents.
+for background, links to OAF introductions and links to other OAF documents.
+
 
 ## Licence and Copyright
 
